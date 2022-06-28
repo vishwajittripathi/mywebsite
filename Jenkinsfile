@@ -7,7 +7,7 @@ pipeline {
                 sh '''
                     echo "Multiline shell steps works too"
                     # curl ifconfig.me
-                   # ls -lah
+                    ls -lah
                 '''
             }
         }
