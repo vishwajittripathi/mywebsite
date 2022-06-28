@@ -1,2 +1,2 @@
 # mywebsite
-vishwajittripathi.netlify.app
+#vishwajittripathi.netlify.app
